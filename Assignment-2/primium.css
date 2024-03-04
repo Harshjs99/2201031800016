@@ -1,0 +1,566 @@
+.netlify {
+  width: 1728px;
+  height: 890px;
+}
+
+.netlify .overlap {
+  position: relative;
+  width: 1735px;
+  height: 917px;
+}
+
+.netlify .main {
+    position: absolute;
+    width: 1922px;
+    height: 920px;
+    top: 0;
+    left: -9px;
+    background-color: #707070;
+}
+
+.netlify .heading-choose {
+  position: absolute;
+  width: 384px;
+  height: 39px;
+  top: 119px;
+  left: 739px;
+  font-family: "Lato-Bold", Helvetica;
+  font-weight: 700;
+  color: #00cfc8;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .div-price-col {
+  position: absolute;
+  width: 444px;
+  height: 494px;
+  top: 250px;
+  left: 160px;
+  background-color: #090909;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #446d63;
+}
+
+.netlify .text-wrapper {
+  width: 228px;
+  left: 108px;
+  position: absolute;
+  height: 32px;
+  top: 45px;
+  font-family: "Lato-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .overlap-group {
+  position: absolute;
+  width: 163px;
+  height: 61px;
+  top: 99px;
+  left: 142px;
+}
+
+.netlify .heading {
+  position: absolute;
+  width: 97px;
+  height: 61px;
+  top: 0;
+  left: 0;
+  font-family: "Poppins-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 44px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .heading-month {
+  width: 66px;
+  height: 23px;
+  top: 29px;
+  left: 97px;
+  font-size: 16px;
+  position: absolute;
+  font-family: "Poppins-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .list-item {
+  position: absolute;
+  width: 5px;
+  height: 23px;
+  top: 203px;
+  left: 69px;
+  font-family: "Poppins-Bold", Helvetica;
+  font-weight: 700;
+  color: #36e2ec;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .list-item-premium {
+  position: absolute;
+  width: 178px;
+  height: 23px;
+  top: 203px;
+  left: 82px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .div {
+  width: 5px;
+  top: 243px;
+  left: 69px;
+  font-family: "Poppins-Bold", Helvetica;
+  font-weight: 700;
+  color: #36e2ec;
+  position: absolute;
+  height: 23px;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .list-item-cancel {
+  position: absolute;
+  width: 131px;
+  height: 23px;
+  top: 243px;
+  left: 82px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .list-item-2 {
+  width: 5px;
+  top: 283px;
+  left: 69px;
+  font-family: "Poppins-Bold", Helvetica;
+  font-weight: 700;
+  color: #36e2ec;
+  position: absolute;
+  height: 23px;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .list-item-hours {
+  position: absolute;
+  width: 203px;
+  height: 23px;
+  top: 283px;
+  left: 82px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .button {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 422px;
+  height: 47px;
+  top: 380px;
+  left: 11px;
+  background-color: #36e2ec;
+  border: 1px solid;
+}
+
+.netlify .text-wrapper-2 {
+  position: absolute;
+  width: 83px;
+  height: 17px;
+  top: 14px;
+  left: 169px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14.1px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .div-price-col-2 {
+  left: 755px;
+  background-color: #090909;
+  position: absolute;
+  width: 444px;
+  height: 494px;
+  top: 250px;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #446d63;
+}
+
+.netlify .text-wrapper-3 {
+  width: 204px;
+  left: 120px;
+  position: absolute;
+  height: 32px;
+  top: 45px;
+  font-family: "Lato-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .overlap-2 {
+  position: absolute;
+  width: 199px;
+  height: 61px;
+  top: 99px;
+  left: 112px;
+}
+
+.netlify .heading-2 {
+  width: 133px;
+  height: 61px;
+  top: 0;
+  left: 0;
+  font-size: 44px;
+  position: absolute;
+  font-family: "Poppins-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .heading-month-2 {
+  left: 133px;
+  position: absolute;
+  width: 66px;
+  height: 23px;
+  top: 29px;
+  font-family: "Poppins-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .list-item-verified {
+  position: absolute;
+  width: 177px;
+  height: 23px;
+  top: 203px;
+  left: 82px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .list-item-discount {
+  width: 138px;
+  top: 243px;
+  left: 82px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  position: absolute;
+  height: 23px;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .list-item-access-to {
+  position: absolute;
+  width: 208px;
+  height: 23px;
+  top: 283px;
+  left: 82px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .list-item-3 {
+  width: 5px;
+  top: 323px;
+  left: 69px;
+  font-family: "Poppins-Bold", Helvetica;
+  font-weight: 700;
+  color: #36e2ec;
+  position: absolute;
+  height: 23px;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .list-item-cancel-2 {
+  width: 163px;
+  position: absolute;
+  height: 23px;
+  top: 323px;
+  left: 82px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .div-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  border: 1px solid;
+  position: absolute;
+  width: 422px;
+  height: 47px;
+  top: 395px;
+  left: 11px;
+  background-color: #36e2ec;
+}
+
+.netlify .div-price-col-3 {
+  left: 1335px;
+  background-color: #000000;
+  position: absolute;
+  width: 444px;
+  height: 494px;
+  top: 250px;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #446d63;
+}
+
+.netlify .text-wrapper-4 {
+  width: 190px;
+  left: 127px;
+  position: absolute;
+  height: 32px;
+  top: 45px;
+  font-family: "Lato-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .overlap-3 {
+  position: absolute;
+  width: 162px;
+  height: 61px;
+  top: 99px;
+  left: 130px;
+}
+
+.netlify .heading-month-3 {
+  left: 96px;
+  position: absolute;
+  width: 66px;
+  height: 23px;
+  top: 29px;
+  font-family: "Poppins-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .list-item-up-to {
+  position: absolute;
+  width: 270px;
+  height: 23px;
+  top: 203px;
+  left: 82px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .list-item-block {
+  position: absolute;
+  width: 135px;
+  height: 23px;
+  top: 243px;
+  left: 82px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .list-item-access-to-2 {
+  position: absolute;
+  width: 210px;
+  height: 23px;
+  top: 283px;
+  left: 82px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .list-item-cancel-3 {
+  width: 164px;
+  position: absolute;
+  height: 23px;
+  top: 323px;
+  left: 82px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .button-2 {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 422px;
+  height: 47px;
+  top: 395px;
+  left: 11px;
+  background-color: #36e2ec;
+}
+
+.netlify .footer {
+  position: absolute;
+  width: 1735px;
+  height: 65px;
+  top: 845px;
+  left: -11px;
+  background-color: #707070;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-color: #1c1b1be7;
+}
+
+.netlify .text-wrapper-5 {
+  position: absolute;
+  width: 130px;
+  height: 28px;
+  top: 18px;
+  left: 799px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 19.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.netlify .header {
+    position: absolute;
+    width: 1924px;
+    height: 80px;
+    top: 0;
+    left: -11px;
+    background-color: #ffffff;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-left-style: none;
+    border-color: #585656da;
+}
+
+.netlify .nav-list-item-link {
+  position: absolute;
+  width: 138px;
+  height: 42px;
+  top: 15px;
+  left: 860px;
+  font-family: "Lato-Regular", Helvetica;
+  font-weight: 400;
+  color: #00cfc8;
+  font-size: 35px;
+  letter-spacing: 1px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.netlify .nav {
+  position: absolute;
+  width: 91px;
+  height: 39px;
+  top: 20px;
+  left: 1555px;
+  background-color: #36e2ec;
+  border-radius: 18px;
+}
+
+.netlify .item-link-sign-up {
+  position: absolute;
+  width: 67px;
+  height: 20px;
+  top: 6px;
+  left: 13px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16.2px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.netlify .color-logo-no {
+  position: absolute;
+  width: 235px;
+  height: 55px;
+  top: 13px;
+  left: 196px;
+  object-fit: cover;
+}
